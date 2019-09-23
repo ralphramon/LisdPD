@@ -5,11 +5,22 @@ body {
   background-color: black;
   
  color: white;
- font-size: 60px;
+ font-size: 40px;
  text-align: center;
 }
 
 h1 {
-  background-color: rgba(245, 78, 66, .3);
+  background-color: rgba(
+196, 193, 192,.3);
     margin: 5%;
+}
+h4 {
+  text-align: left;
+  img: url(
+    
+  color: white;
+  text-align: left
+  
+    
+  
 }
